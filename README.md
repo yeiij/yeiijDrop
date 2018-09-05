@@ -5,7 +5,7 @@ Standalone Addon for Arma 3
 The addon generates an event withing a circle where a chopper wil drop a box full of weapons + ammo
 
 ## How i do install this?
-1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijCDrop/releases)
+1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijDrop/releases)
 <br>
 2 - Put the PBO file inside @life_server\addons
 > iex: @life_server\addons\yeiijDrop.pbo
