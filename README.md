@@ -8,7 +8,7 @@ The addon generates an event withing a circle where a chopper wil drop a box ful
 1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijCDrop/releases)
 <br>
 2 - Put the PBO file inside @life_server\addons
-> iex: @life_server\addons\yeiijCrash.pbo
+> iex: @life_server\addons\yeiijDrop.pbo
 
 ## How i do edit this?
 the addon contains a file named [config.sqf](https://github.com/yeiij/yeiijDrop/blob/master/config/config.sqf) inside the folder config
