@@ -16,7 +16,7 @@ diag_log " :::::::::::::::::::::::::::::::::::::::::::::::::: ";
 
         sleep YEIIJ_dropWait;
 
-        [] call YEIIJ_fnc_DropSelectPossition;
+        [] call YEIIJ_fnc_DropSelectPosition;
 
         if (!YEIIJ_dropRun) exitWith {
             diag_log " :::::::::::::::::::::::::::::::::::::::::::::::::: ";

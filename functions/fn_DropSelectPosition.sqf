@@ -3,7 +3,7 @@
  * Addon: yeiijDrop
  * Author: Jason REDUX (@Yeiij)
  * Date: 18/08/2018
- * File: fn_DropSelectPossition.sqf
+ * File: fn_DropSelectPosition.sqf
  *
  */
 

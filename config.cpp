@@ -47,7 +47,7 @@ class CfgFunctions
 			class DropCreateVehicles {};
 			class DropDrop {};
 			class DropFillBox {};
-			class DropSelectPossition {};
+			class DropSelectPosition {};
 			class DropStartAddon {};
 		};
 	};

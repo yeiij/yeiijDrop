@@ -11,6 +11,6 @@ diag_log " |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ";
 diag_log " || yeiijDrop (Server): PRE-INIT                                || ";
 diag_log " |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| ";
 
-// if (hasInterface) exitWith {};
+if (hasInterface) exitWith {};
 
 call compile preprocessFileLineNumbers "yeiijDrop\config\config.sqf";
