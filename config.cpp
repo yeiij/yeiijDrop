@@ -35,6 +35,7 @@ class CfgFunctions
 			file = "yeiijDrop";
 			class DropPreInit { preInit = 1; };
 			class DropPostInit { postInit = 1; };
+			class DropStartAddon {};
 		};
 		class compilesDrop
 		{
@@ -48,7 +49,6 @@ class CfgFunctions
 			class DropDrop {};
 			class DropFillBox {};
 			class DropSelectPosition {};
-			class DropStartAddon {};
 		};
 	};
 };
