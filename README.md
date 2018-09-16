@@ -7,9 +7,10 @@ The addon generates an event withing a circle where a chopper wil drop a box ful
 ## How i do install this?
 1 - Download the code and make a PBO or download the [latest released version](https://github.com/yeiij/yeiijDrop/releases)
 <br>
-2 - Put the PBO file inside @life_server\addons
+2 - Put the PBO file inside @Yeiij\addons
 ```
-iex: @life_server\addons\yeiijDrop.pb
+iex: @Yeiij\addons\yeiijDrop.pb
+remember load the mod on server start at -serverMods
 ```
 
 ## How i do edit this?
