@@ -15,3 +15,6 @@ remember load the mod on server start at -serverMods
 
 ## How i do edit this?
 the addon contains a file named [config.sqf](https://github.com/yeiij/yeiijDrop/blob/master/config/config.sqf) inside the folder config
+
+## Do you want to thank for my work?
+https://paypal.me/yeiij
